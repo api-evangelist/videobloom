@@ -1,0 +1,65 @@
+{
+    "name": "VideoBloom",
+    "description": "Connect, tell, sell and share your stories and products with the power of socially smart video solutions from VideoBloom.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/518-videobloom,-inc-.jpg",
+    "tags": [
+        "distribution",
+        "have api",
+        "monetization"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/videobloom\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "VideoBloom",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/518-videobloom,-inc-.jpg",
+            "humanURL": "http:\/\/www.videobloom.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/videobloom-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/videobloom-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/www.videobloom.com"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/videobloom.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.videobloom.com\/?feed=rss"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/videobloom"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/videobloom"
+        },
+        {
+            "type": "Email",
+            "url": "sales@videobloom.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/videobloom"
+        }
+    ]
+}
