@@ -7,8 +7,8 @@
         "have api",
         "monetization"
     ],
-    "created": "2019-12-19",
-    "modified": "2019-12-19",
+    "created": "2019-12-21",
+    "modified": "2019-12-21",
     "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/videobloom\/master\/apis.json",
     "specificationVersion": "0.14",
     "apis": [
@@ -22,17 +22,17 @@
             "properties": [
                 {
                     "type": "x-openapi",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/videobloom-openapi.json"
-                },
-                {
-                    "type": "x-postman-collecction",
-                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/videobloom-postman-collection.json"
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/videobloom\/master\/videobloom-openapi.json"
                 }
             ]
         }
     ],
     "include": [],
     "x-common": [
+        {
+            "type": "APIs.json",
+            "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/apis.json"
+        },
         {
             "type": "Website",
             "url": "http:\/\/www.videobloom.com"
